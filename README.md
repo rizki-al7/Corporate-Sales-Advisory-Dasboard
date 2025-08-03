@@ -92,5 +92,4 @@ Dashboard ini memberikan kontribusi strategis dalam:
 
 ---
 
-> 🚀 Proyek ini menunjukkan inisiatif pribadi saya untuk menyelesaikan masalah nyata di lapangan melalui pendekatan data-driven, meski di luar jobdesk awal.  
-> Saya percaya bahwa visualisasi yang sederhana namun tepat sasaran mampu meningkatkan efektivitas tim dan membuka peluang analisis yang lebih luas ke depannya.
+> 🚀 Proyek ini menunjukkan inisiatif pribadi saya untuk menyelesaikan masalah nyata di lapangan melalui pendekatan data-driven, meski di luar jobdesk awal. Saya percaya bahwa visualisasi yang sederhana namun tepat sasaran mampu meningkatkan efektivitas tim dan membuka peluang analisis yang lebih luas ke depannya.
