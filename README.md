@@ -5,11 +5,11 @@ Catatan: Gambar diatas digunakan sebagai ilustrasi dikarenakan dashboard berisi 
 
 ## 📝 Ringkasan Proyek
 
-Dashboard ini dikembangkan menggunakan **Microsoft Excel** berdasarkan **180.450 data nasabah korporasi BNI** dari berbagai sumber (`Mapping`, `CPA-1`, dan `CPA-2`). Proyek ini bertujuan menyederhanakan proses validasi dan analisis data melalui visualisasi yang **interaktif dan mudah digunakan**, untuk mendukung **pengambilan keputusan tim Corporate Sales Advisory** berdasarkan distribusi pelanggan menurut wilayah, sektor industri, dan penanggung jawab.
+Dashboard ini dikembangkan menggunakan **Microsoft Excel** berdasarkan **180.450 data nasabah korporasi BNI** dari berbagai sumber data (`Mapping`, `CPA-1`, dan `CPA-2`). Proyek ini bertujuan menyederhanakan proses validasi dan analisis data melalui visualisasi yang **interaktif dan mudah digunakan**, untuk mendukung **pengambilan keputusan tim Corporate Sales Advisory** berdasarkan distribusi pelanggan menurut wilayah, sektor industri, dan penanggung jawab.
 
-> Proyek ini berangkat dari data mentah yang sebelumnya belum dikelola dengan baik, bahkan telah menjadi permasalahan berulang sejak beberapa periode sebelumnya. Awalnya saya ditugaskan hanya untuk mengabungkan, membersihkan, serta mengvalidasi data. 
+> Proyek ini berangkat dari data mentah yang sebelumnya belum dikelola dengan baik, bahkan telah menjadi permasalahan berulang sejak beberapa periode sebelumnya. Awalnya saya hanya ditugaskan untuk mengabungkan, membersihkan, serta mengvalidasi data. 
 
-> **Melihat potensi dampak bisnis dari data ini**, serta berangkat dari **pemahaman terhadap kebutuhan tim**, saya mengambil inisiatif untuk mengembangkan dashboard secara mandiri agar tim sales dapat lebih mudah memonitor dan mengambil keputusan berdasarkan data yang tersedia. Meski belum pernah membuat dashboard sebelumnya, saya belajar secara otodidak menggunakan sumber terbatas dan **menyesuaikan dengan tools yang sudah familiar digunakan oleh tim**, yaitu Microsoft Excel.
+> **Melihat potensi dampak bisnis dari data ini**, serta berangkat dari **pemahaman terhadap kebutuhan tim**, saya mengambil inisiatif untuk mengembangkan dashboard secara mandiri agar tim sales dapat lebih mudah memonitor dan mengambil keputusan berdasarkan data yang tersedia. Meski belum pernah membuat dashboard sebelumnya, saya belajar secara otodidak menggunakan sumber yang ada dan **menyesuaikan dengan tools yang sudah familiar digunakan oleh tim**, yaitu Microsoft Excel.
 
 ---
 
