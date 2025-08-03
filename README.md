@@ -1,6 +1,6 @@
 # 📊 Excel Dashboard – CPA-1 BNI
 
-![Dashboard Preview](Ilustrasi%20Dashboard%20CPA%201%20-%20BNI.jpg)
+![Dashboard Preview](Ilustrasi-Dashboard-Excel.jpg)
 Catatan: Gambar diatas digunakan sebagai ilustrasi dikarenakan dashboard berisi informasi bersifat rahasia perusahaan.
 
 ## 📝 Ringkasan Proyek
