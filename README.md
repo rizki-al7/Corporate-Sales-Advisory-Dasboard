@@ -9,7 +9,7 @@ Dashboard ini dikembangkan menggunakan **Microsoft Excel** berdasarkan **180.450
 
 > Proyek ini berangkat dari data mentah yang sebelumnya belum dikelola dengan baik, bahkan telah menjadi permasalahan berulang sejak beberapa periode sebelumnya. Awalnya saya ditugaskan hanya untuk mengabungkan, membersihkan, serta mengvalidasi data. 
 
-> **Melihat potensi dampak bisnis dari data ini**, serta berangkat dari **pemahaman terhadap kebutuhan tim**, saya mengambil inisiatif untuk mengembangkan dashboard secara mandiri agar tim sales dapat lebih mudah memonitor dan mengambil keputusan berdasarkan data yang tersedia. Meski belum pernah membuat dashboard sebelumnya, saya belajar secara otodidak menggunakan sumber terbatas dan menyesuaikan dengan tools yang sudah familiar digunakan oleh tim, yaitu Microsoft Excel.
+> **Melihat potensi dampak bisnis dari data ini**, serta berangkat dari **pemahaman terhadap kebutuhan tim**, saya mengambil inisiatif untuk mengembangkan dashboard secara mandiri agar tim sales dapat lebih mudah memonitor dan mengambil keputusan berdasarkan data yang tersedia. Meski belum pernah membuat dashboard sebelumnya, saya belajar secara otodidak menggunakan sumber terbatas dan **menyesuaikan dengan tools yang sudah familiar digunakan oleh tim**, yaitu Microsoft Excel.
 
 ---
 
